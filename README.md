@@ -1,0 +1,2 @@
+# Exploring-SARS_COV-2-over-geographical-variations-in-the-recent-times
+In this project, I have tried to analyse how similar or dissimilar SARA-COV-2 virus is at different time periods in India. I have applied K-mer distribution on my datasets which consisted of genome sequences of different samples collected from human hosts in India. Then applied k-means clustering to see  similarities/ dissimilarities of virus at different time periods. 
